@@ -1,7 +1,0 @@
-Version: "3.*"
-
-services:
-  App:
-    image: php
-    ports: 1000:80
-    volumes: ./:/app
